@@ -17,7 +17,6 @@ function callback(){
 
     const items = xmlDOM.querySelectorAll("item");
 
-    //for(var item of items){
 		items.forEach(item => 
         feedHTML += `
                         <hr>

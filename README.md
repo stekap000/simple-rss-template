@@ -1,2 +1,3 @@
-# simple-rss-template
-Simple pure javascript rss template.
+## Javascript RSS
+
+This is just a simple rss request template that I use locally.
